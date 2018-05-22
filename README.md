@@ -9,7 +9,10 @@ Initially this project will be written in PHP however the intention that this pr
 *** psuedo code ***
 $telephone->starts(0700)->or->(brackets(0700))->then->(000)->again(twice());
 
+$email->starts('@')->end('co.uk')->or('com');
+
 *** Simple syntax ***
 1. Telephone starts with 4 digits
 
 2. Contains 07
+
